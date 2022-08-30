@@ -1,6 +1,4 @@
-<center><a><img src="images/nasa-openscapes.png" alt="NASA logo to left of Openscapes logo" width="300px"/></a></center>
+<center><a><img src="images/logo.png" alt="Gentile Zoology and Ecology Lab - Logo" width="800px"/></a></center>
 
-<center><h1>GZEL</h1></center>
+<center><h1>Gentile Zoology and Ecology Lab</h1></center>
 <br>
-
-Ciao!
