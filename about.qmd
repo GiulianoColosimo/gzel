@@ -1,0 +1,15 @@
+---
+title: "About"
+description: |
+  All you need to know about Gentile Zoology and Ecology Lab 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+# GZEL - Gentile Zoology and Ecology Lab
+
+
+

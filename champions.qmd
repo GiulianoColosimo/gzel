@@ -1,0 +1,14 @@
+---
+title: "GZEL Denizens"
+description: |
+  Meet all the researchers and students working @ GZEL 
+output:
+  distill::distill_article:
+    self_contained: false
+    toc: true
+    toc_depth: 3
+---
+
+## Researchers
+
+## PhD Students

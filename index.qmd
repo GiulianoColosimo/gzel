@@ -1,0 +1,6 @@
+<center><a><img src="images/nasa-openscapes.png" alt="NASA logo to left of Openscapes logo" width="300px"/></a></center>
+
+<center><h1>GZEL</h1></center>
+<br>
+
+Ciao!
