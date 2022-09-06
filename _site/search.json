@@ -4,7 +4,7 @@
     "href": "champions.html#phd-students",
     "title": "GZEL Denizens",
     "section": "PhD Students",
-    "text": "PhD Students\nMarco Gargano\nCecilia Paradiso\nLorenzo Garizio\ncazzo"
+    "text": "PhD Students\nMarco Gargano\nCecilia Paradiso\nLorenzo Garizio"
   },
   {
     "objectID": "index.html",
@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Test 3\nTest Pull & Push"
+    "text": "<h2>Contact Us</h2>\n<p>Swing by for a cup of coffee, or leave us a message:</p>\n\n\n<div class=\"column\">\n  <img src=\"/images/logo.jpg\" style=\"width:100%\">\n</div>\n<div class=\"column\">\n  <form action=\"/action_page.php\">\n    <label for=\"fname\">First Name</label>\n    <input type=\"text\" id=\"fname\" name=\"firstname\" placeholder=\"Your name..\">\n    <label for=\"lname\">Last Name</label>\n    <input type=\"text\" id=\"lname\" name=\"lastname\" placeholder=\"Your last name..\">\n    <label for=\"country\">Country</label>\n    <select id=\"country\" name=\"country\">\n      <option value=\"australia\">Australia</option>\n      <option value=\"canada\">Canada</option>\n      <option value=\"usa\">USA</option>\n    </select>\n    <label for=\"subject\">Subject</label>\n    <textarea id=\"subject\" name=\"subject\" placeholder=\"Write something..\" style=\"height:170px\"></textarea>\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</div>"
   },
   {
     "objectID": "champions.html#ciao",
@@ -33,5 +33,26 @@
     "title": "GZEL Denizens",
     "section": "",
     "text": "Giuliano Colosimo"
+  },
+  {
+    "objectID": "champions.html#master-students",
+    "href": "champions.html#master-students",
+    "title": "GZEL Denizens",
+    "section": "Master Students",
+    "text": "Master Students"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact us",
+    "section": "",
+    "text": "First Name \nLast Name \nCountry  Australia Canada USA Italy Europe \nSubject"
+  },
+  {
+    "objectID": "contact.html#you-can-find-us-there",
+    "href": "contact.html#you-can-find-us-there",
+    "title": "Contact us",
+    "section": "You can find us there",
+    "text": "You can find us there"
   }
 ]

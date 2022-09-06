@@ -20,6 +20,8 @@ website:
       href: about.qmd
     - text: "Champions"
       href: champions.qmd
+    - text: "Contact"
+      href: contact.qmd
 
 format:
   html:
