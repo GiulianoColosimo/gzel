@@ -12,5 +12,12 @@
     "title": "GZEL",
     "section": "",
     "text": "Gentile Zoology and Ecology Lab"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "<div class=\"row\">\n        <div class=\"col-sm\">\n            <a href=\"https://www.galapagos.gob.ec/en/national-park/\"><img src=\"/images/gal_park_partner.png\" class=\"img-fluid\" alt=\"National park\"></a>\n        </div>\n        <div class=\"col-sm\">\n            <a href=\"https://sandiegozoowildlifealliance.org/\"><img src=\"/images/san_diego_partner.png\" class=\"img-fluid\" alt=\"San Diego\"></a>\n        </div>\n    </div>\n</div>\n\n<style>\n.logo-list {\n    padding: 20px 0;\n    text-align: center;\n}\n.logo-list img {\n    display: inline-block;\n    max-width: 85%;\n    padding: 15px 0;\n    transition: all 0.3s ease-in-out;\n    -webkit-filter: grayscale(100);\n    -moz-filter: grayscale(100);\n    filter: grayscale(100);\n}\n.logo-list img:hover {\n    filter: none;\n    transform: scale(1.2);\n    -webkit-filter: none;\n    -moz-filter: none;\n}\n</style>\n\nGZEL - Gentile Zoology and Ecology Lab"
   }
 ]
