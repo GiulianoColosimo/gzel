@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "<h2>Contact Us</h2>\n<p>Swing by for a cup of coffee, or leave us a message:</p>\n\n\n<div class=\"column\">\n  <img src=\"/images/logo.jpg\" style=\"width:100%\">\n</div>\n<div class=\"column\">\n  <form action=\"/action_page.php\">\n    <label for=\"fname\">First Name</label>\n    <input type=\"text\" id=\"fname\" name=\"firstname\" placeholder=\"Your name..\">\n    <label for=\"lname\">Last Name</label>\n    <input type=\"text\" id=\"lname\" name=\"lastname\" placeholder=\"Your last name..\">\n    <label for=\"country\">Country</label>\n    <select id=\"country\" name=\"country\">\n      <option value=\"australia\">Australia</option>\n      <option value=\"canada\">Canada</option>\n      <option value=\"usa\">USA</option>\n    </select>\n    <label for=\"subject\">Subject</label>\n    <textarea id=\"subject\" name=\"subject\" placeholder=\"Write something..\" style=\"height:170px\"></textarea>\n    <input type=\"submit\" value=\"Submit\">\n  </form>\n</div>"
+    "text": "The Gentile Zoology and Ecology Lab is primarily a zoology lab with a special focus on the study of endangered species. Starting from a conservation point of view, our works range from the study of the spatial ecology of animal populations to the reconstruction of their evolutionary history.\nGabriele Gentile is the head of the Gentile Zoology and Ecology Lab at the University of Rome “Tor Vergata”, where he works as Associate Professor of Zoology. His main interests include zoology, evolutionary biology and conservation biology. His reasearch works primarily include the study of the Galápagos Land Iguanas, particularly the Galápagos Pink Land Iguana, Conolophus marthae.\nDescribed by our team leader Gabriele Gentile in 2009, the Galápagos Pink Land Iguana (Conolophus marthae) is a Critically Endangered species, endemic to Wolf Volcano, on Isabela Island in the Galápagos archipelago where it persists as a single population on the northwestern slope of the volcano, at altitudes ranging from 600 to 1700 meters a.s.l."
   },
   {
     "objectID": "champions.html#ciao",
@@ -39,14 +39,14 @@
     "href": "champions.html#master-students",
     "title": "GZEL Denizens",
     "section": "Master Students",
-    "text": "Master Students"
+    "text": "Master Students\n\n\n\n\n\n\n\n\n\n\n\nDarth Vader\n\n\nSith Lord\n\n\nStar Wars University\n\n\n  \n\n\n\nContact"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact us",
     "section": "",
-    "text": "First Name \nLast Name \nCountry  Australia Canada USA Italy Europe \nSubject"
+    "text": "First Name \nLast Name \nSubject\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVia Cracovia 1, Rome (Italy)\nZoology Building\nFrom Monday yo Friday\n10:00 - 18:00"
   },
   {
     "objectID": "contact.html#you-can-find-us-there",
@@ -54,5 +54,19 @@
     "title": "Contact us",
     "section": "You can find us there",
     "text": "You can find us there"
+  },
+  {
+    "objectID": "champions.html#education",
+    "href": "champions.html#education",
+    "title": "Finley Malloc",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sep 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sep 2007 - June 2011"
+  },
+  {
+    "objectID": "champions.html#experience",
+    "href": "champions.html#experience",
+    "title": "Finley Malloc",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
   }
 ]

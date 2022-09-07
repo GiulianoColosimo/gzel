@@ -1,13 +1,13 @@
 ---
 title: "Contact us"
-description: |
-  Contact us at Gentile Zoology and Ecology Lab 
+#description: |
 output:
-  distill::distill_article:
-    self_contained: false
-    toc: true
-    toc_depth: 3
-
+    toc: false
+    toc_float: false
+#    toc_depth: 6
+#    mathjax: null
+#    css: doc.css
+#    code-block-border-left: false
 ---
 
 <html>
@@ -60,15 +60,6 @@ input[type=submit]:hover {
     <label for="lname">Last Name</label>
     <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-    <label for="country">Country</label>
-    <select id="country" name="country">
-      <option value="australia">Australia</option>
-      <option value="canada">Canada</option>
-      <option value="usa">USA</option>
-      <option value="italy">Italy</option>
-      <option value="europe">Europe</option>
-    </select>
-
     <label for="subject">Subject</label>
     <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
@@ -79,7 +70,9 @@ input[type=submit]:hover {
 </body>
 </html>
 
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
+
 library(leaflet)
 library(rgdal)
 library(dplyr)
@@ -97,4 +90,16 @@ leaflet() %>%
   )
 
 ```
+::: {.column-margin}
+Via Cracovia 1, Rome (Italy)
+
+
+Zoology Building
+
+From Monday yo Friday
+
+10:00 - 18:00
+
+
+:::
 

@@ -5,10 +5,18 @@ description: |
 output:
   distill::distill_article:
     self_contained: false
-    toc: true
-    toc_depth: 3
+#    toc: true
+#    toc_depth: 3
 
 ---
 
 # GZEL - Gentile Zoology and Ecology Lab
+
+The Gentile Zoology and Ecology Lab is primarily a zoology lab with a special focus on the study of endangered species. Starting from a conservation point of view, our works range from the study of the spatial ecology of animal populations to the reconstruction of their evolutionary history.
+
+Gabriele Gentile is the head of the Gentile Zoology and Ecology Lab at the University of Rome "Tor Vergata", where he works as Associate Professor of Zoology. His main interests include zoology, evolutionary biology and conservation biology. His reasearch works primarily include the study of the **Galápagos Land Iguanas**, particularly the **Galápagos Pink Land Iguana**, *Conolophus marthae*.
+
+Described by our team leader Gabriele Gentile in 2009, the **Galápagos Pink Land Iguana** (*Conolophus marthae*) is a *Critically Endangered* species, endemic to Wolf Volcano, on Isabela Island in the Galápagos archipelago where it persists as a single population on the northwestern slope of the volcano, at altitudes ranging from 600 to 1700 meters a.s.l.
+
+<div></div><div><iframe width="700" height="600" scrolling="no" src="https://www.youtube.com/embed/-Vm4F0s5DUw" style="margin-left: 1.5em; margin-top: 1.5em"></iframe></div>
 

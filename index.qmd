@@ -1,4 +1,5 @@
-<center><a><img src="images/logo.png" alt="Gentile Zoology and Ecology Lab - Logo" width="800px"/></a></center>
+<center><a><img src="images/logo.png" alt="Gentile Zoology and Ecology Lab - Logo" width="900px"/ 
+style="margin-top: 3.5em"></a></center>
 
 <center><h1>Gentile Zoology and Ecology Lab</h1></center>
 <br>
