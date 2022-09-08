@@ -50,7 +50,6 @@ input[type=submit]:hover {
 </head>
 <body>
 
-<h3></h3>
 
 <div class="container">
   <form action="/action_page.php">
@@ -91,12 +90,14 @@ leaflet() %>%
 
 ```
 ::: {.column-margin}
-Via Cracovia 1, Rome (Italy)
+Via Cracovia, 1
+
+100133, Rome (Italy)
 
 
 Zoology Building
 
-From Monday yo Friday
+From Monday to Friday
 
 10:00 - 18:00
 

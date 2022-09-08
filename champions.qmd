@@ -9,20 +9,6 @@ output:
 #    toc_depth: 3
 ---
 
-## Researchers
-
-Giuliano Colosimo
-
-## PhD Students
-
-Marco Gargano
-
-Cecilia Paradiso
-
-Lorenzo Garizio
-
-## Master Students
-
 <html>
 <head>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -35,7 +21,7 @@ Lorenzo Garizio
   font-family: arial;
 }
 
-.title {
+.atitle {
   color: grey;
   font-size: 18px;
 }
@@ -55,24 +41,78 @@ button {
 
 a {
   text-decoration: none;
-  font-size: 22px;
   color: black;
 }
 
 button:hover, a:hover {
   opacity: 0.7;
 }
+
+/* Three columns side by side */
+.column {
+  float: left;
+  width: 33.3%;
+  margin-bottom: 16px;
+  padding: 0 16px;
+}
+
+/* Display the columns below each other instead of side by side on small screens */
+@media screen and (max-width: 650px) {
+  .column {
+    width: 100%;
+    display: block;
+  }
+}
+
+/* Some left and right padding inside the container */
+.container {
+  padding: 0 16px;
+}
+
+/* Clear floats */
+.container::after, .row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 </style>
 </head>
 <body>
 
-<h2 style="text-align:center"></h2>
+<h2 style="text-align:center">Principal Investigator</h2>
 
 <div class="card">
-  <img src="/images/test_team.jpg" alt="Darth Vader" style="width:100%">
-  <h1>Darth Vader</h1>
-  <p class="title">Sith Lord</p>
-  <p>Star Wars University</p>
+  <img src="/images/test_team.jpg" alt="Gabriele Gentile" style="width:100%">
+  <h1>Gabriele Gentile</h1>
+  <p class="atitle">Associate Professor in Zoology</p>
+  <p>University of Rome "Tor Vergata"</p>
+  <div style="margin: 10px 0;">
+  <a
+  href="#!" role="button"><i class="fa fa-github"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-researchgate"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-twitter"></i
+></a>
+  </div>
+  <a href="mailto:indirizzo@email.com">
+  <p><button>Contact</button></p>
+  </a>
+</div>
+
+<h2 style="text-align:center">Researchers</h2>
+
+<div class="row">
+  <div class="column">
+<div class="card">
+  <img src="/images/test_team2.jpg" alt="Giuliano Colosimo" style="width:100%">
+  <div class="container">
+  <h1>Giuliano Colosimo</h1>
+  <p class="atitle">Research Associate</p>
+  <p>University of Rome "Tor Vergata"</p>
   <div style="margin: 10px 0;">
   <a
   href="#!" role="button"><i class="fa fa-facebook"></i
@@ -84,8 +124,145 @@ button:hover, a:hover {
   href="#!" role="button"><i class="fa fa-twitter"></i
 ></a>
   </div>
+  <a href="mailto:indirizzo@email.com">
   <p><button>Contact</button></p>
+  </a>
 </div>
+</div>
+</div>
+
+<div class="row">
+  <div class="column">
+<div class="card">
+  <img src="/images/test_team2.jpg" alt="Paolo Gratton" style="width:100%">
+  <div class="container">
+  <h1>Paolo Gratton</h1>
+  <p class="atitle">Research Associate</p>
+  <p>University of Rome "Tor Vergata"</p>
+  <div style="margin: 10px 0;">
+  <a
+  href="#!" role="button"><i class="fa fa-facebook"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-instagram"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-twitter"></i
+></a>
+  </div>
+<a href="mailto:indirizzo@email.com">
+  <p><button>Contact</button></p>
+  </a>
+  </div>
+</div>
+</div>
+</div>
+
+<h2 style="text-align:center">PhD students</h2>
+
+<div class="row">
+  <div class="column">
+<div class="card">
+  <img src="/images/test_team2.jpg" alt="Marco Gargano" style="width:100%">
+  <div class="container">
+  <h1>Marco Gargano</h1>
+  <p class="atitle">PhD student in Evolutionary Biology and Ecology</p>
+  <p>University of Rome "Tor Vergata"</p>
+  <div style="margin: 10px 0;">
+  <a
+  href="#!" role="button"><i class="fa fa-facebook"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-instagram"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-twitter"></i
+></a>
+  </div>
+  <a href="mailto:indirizzo@email.com">
+  <p><button>Contact</button></p>
+  </a>
+</div>
+</div>
+</div>
+
+
+<div class="column">
+<div class="card">
+  <img src="/images/test_team2.jpg" alt="Cecilia Paradiso" style="width:100%">
+  <div class="container">
+  <h1>Cecilia Paradiso</h1>
+  <p class="atitle">PhD student in Evolutionary Biology and Ecology</p>
+  <p>University of Rome "Tor Vergata"</p>
+  <div style="margin: 10px 0;">
+  <a
+  href="#!" role="button"><i class="fa fa-facebook"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-instagram"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-twitter"></i
+></a>
+  </div>
+<a href="mailto:indirizzo@email.com">
+  <p><button>Contact</button></p>
+  </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+<div class="card">
+  <img src="/images/test_team2.jpg" alt="Lorenzo Garizio" style="width:100%">
+  <div class="container">
+  <h1>Lorenzo Garizio</h1>
+  <p class="atitle">PhD student in Evolutionary Biology and Ecology</p>
+  <p>University of Rome "Tor Vergata"</p>
+  <div style="margin: 10px 0;">
+  <a
+  href="#!" role="button"><i class="fa fa-facebook"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-instagram"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-twitter"></i
+></a>
+  </div>
+<a href="mailto:indirizzo@email.com">
+  <p><button>Contact</button></p>
+  </a>
+  </div>
+</div>
+</div>
+
+<div class="column">
+ <div class="card">
+  <img src="/images/test_team2.jpg" alt="Syafiq Rahim" style="width:100%">
+  <div class="container">
+  <h1>Syafiq Rahim</h1>
+  <p class="atitle">PhD student in Evolutionary Biology and Ecology</p>
+  <p>University of Rome "Tor Vergata"</p>
+  <div style="margin: 10px 0;">
+  <a
+  href="#!" role="button"><i class="fa fa-facebook"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-instagram"></i
+></a>
+  <a
+  href="#!" role="button"><i class="fa fa-twitter"></i
+></a>
+  </div>
+<a href="mailto:indirizzo@email.com">
+  <p><button>Contact</button></p>
+  </a>
+  </div>
+</div>
+</div>
+</div>
+
 
 </body>
 </html>

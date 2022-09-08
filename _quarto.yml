@@ -22,8 +22,10 @@ website:
     right:
     - text: "About"
       href: about.qmd
-    - text: "Champions"
+    - text: "Team"
       href: champions.qmd
+    - text: "Publications"
+      href: publications
     - text: "Contact"
       href: contact.qmd
       
