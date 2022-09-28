@@ -5,13 +5,13 @@ description: |
 output:
   distill::distill_article:
     self_contained: false
-#    toc: true
-#    toc_depth: 3
+    toc: true
+    toc_depth: 3
 ---
 
 <html>
 <head>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 <style>
 
 a {
@@ -25,7 +25,7 @@ a {
     
     <p>Colosimo, G., Gargano, M., Loreti, P., Bracciale, L., De Luca, M., Catini, A., Di Natale, C., Vera, C., Sevilla, C. R., Gerber, G. P., & Gentile, G. 2022. Remote tracking of Galápagos pink land iguana reveals large elevational shifts in habitat use. <em>Journal for Nature Conservation</em> 68: 126210.
     <a href="https://doi.org/10.1016/j.jnc.2022.126210" role="button"><i class="fa fa-link"></i></a>
-    <a href="#!" role="button"><i class="fa fa-file"></i></a>
+    <a href="#!" role="button"><i class="fa-solid fa-file-pdf"></i></a>
     </p>
 
 </body>

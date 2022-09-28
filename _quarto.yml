@@ -26,6 +26,8 @@ website:
       href: champions.qmd
     - text: "Publications"
       href: publications
+    - text: "Partners"
+      href: partners.qmd
     - text: "Contact"
       href: contact.qmd
       
